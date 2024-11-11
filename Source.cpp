@@ -6,7 +6,7 @@ void main()
 	setlocale(LC_ALL, "rus");
 	
 	int a, b, c;
-	ccc
+	
 	cout << "Enter the first number: ";
 	cin >> a;
 

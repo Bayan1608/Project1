@@ -16,7 +16,7 @@ void main()
 	cout << "Enter the third number: ";
 	cin >> c;
 
-	cout << "The folowing numbers were derived: " << a << ", " << b << ", " << c << "." << endl;
+	cout << "The folowing numbers were entered: " << a << ", " << b << ", " << c << "." << endl;
 	cout << "The sum of these numbers is: " << a + b + c << endl;
 	cout << "The product of these numbers is: " << a * b * c << endl;
 	cout << "The arifmetic mean of these numbers is: " << (double)(a + b + c) / 3 << endl;

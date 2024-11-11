@@ -4,20 +4,20 @@ using namespace std;
 void main()
 {
 	setlocale(LC_ALL, "rus");
-	
+	cccc
 	int a, b, c;
 
-	cout << "Введите первое число: ";
+	cout << "Enter the first number: ";
 	cin >> a;
 
-	cout << "Введите второе число: ";
+	cout << "Enter the second number: ";
 	cin >> b;
 
-	cout << "Введите третье число: ";
+	cout << "Enter the third number: ";
 	cin >> c;
 
-	cout << "Вы ввели следующие числа: " << a << ", " << b << ", " << c << "." << endl;
-	cout << "Сумма этих чисел равна: " << a + b + c << endl;
-	cout << "Произведение этих чисел равно: " << a * b * c << endl;
-	cout << "Среднее арифметическое этих чисел равно: " << (double)(a + b + c) / 3 << endl;
+	cout << "The folowing numbers were derived: " << a << ", " << b << ", " << c << "." << endl;
+	cout << "The sum of these numbers is: " << a + b + c << endl;
+	cout << "The product of these numbers is: " << a * b * c << endl;
+	cout << "The arifmetic mean of these numbers is: " << (double)(a + b + c) / 3 << endl;
 }

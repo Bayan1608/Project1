@@ -4,7 +4,7 @@ using namespace std;
 void main()
 {
 	setlocale(LC_ALL, "rus");
-	cccc
+	
 	int a, b, c;
 
 	cout << "Enter the first number: ";
